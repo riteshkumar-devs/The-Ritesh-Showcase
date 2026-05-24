@@ -2,7 +2,7 @@
 
 A modern, interactive personal portfolio website featuring cutting-edge web technologies, stunning animations, and a showcase of multifaceted talents in development, design, gaming, and content creation.
 
-**🌐 Live Demo:** [The Ritesh Showcase](https://riteshkumar477823-wq.github.io/The-Ritesh-Showcase/)  
+**🌐 Live Demo:** [The Ritesh Showcase](https://riteshkumar-devs.github.io/The-Ritesh-Showcase/)  
 **👤 Author:** [Ritesh Kumar](https://www.github.com/riteshkumar477823-wq)
 
 ---
